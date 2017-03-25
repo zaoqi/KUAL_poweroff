@@ -1,0 +1,5 @@
+{
+	"items": [
+		{"name": "Poweroff", "priority": 1, "action": "poweroff"}
+	]
+}
